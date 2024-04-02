@@ -18,7 +18,7 @@
 
 
 <div align="left">
- 💡 Courses I mastered: **Object Oriented Programming I & II, System Hardware, Web Programming, Mathematics for Computer Science, Probability & Statistics for Computer Science, Technical Writing and Communication, Data Structures & Algorithms, Principles of Programming Languages, Operating Systems, Introduction to Formal Methods for Software Engineering, Databases, Social and Ethical Dimensions of Information and Communication Technologies, Databases, Introduction to Software Engineering, Introduction to Theoretical Computer Science**
+ 💡 Courses I mastered: Object Oriented Programming I & II, System Hardware, Web Programming, Mathematics for Computer Science, Probability & Statistics for Computer Science, Technical Writing and Communication, Data Structures & Algorithms, Principles of Programming Languages, Operating Systems, Introduction to Formal Methods for Software Engineering, Databases, Social and Ethical Dimensions of Information and Communication Technologies, Databases, Introduction to Software Engineering, Introduction to Theoretical Computer Science
  </div>
  
  <hr/>
