@@ -4,9 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hovhannes+Kolian!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Montreal, and currently a fourth-year computer science student at Concordia University.</h3>
+<h3 align="center"> A fourth-year computer science student at Concordia University who's passionate about programming and ready to learn new coding skills.</h3>
+
 <br/>
-<div align="center"> 
+<br/>
+<div align="left">
+ 💡concepts/Courses covered: Object Oriented Programming I & II, System Hardware, Web Programming, Mathematics for Computer Science, Probability & Statistics for Computer Science, Technical Writing and Communication, Data Structures & Algorithms, Principles of Programming Languages, Operating Systems, Introduction to Formal Methods for Software Engineering, Databases, Social and Ethical Dimensions of Information and Communication Technologies, Databases, Introduction to Software Engineering, Introduction to Theoretical Computer Science
+ </div>
+ </br>
+ <div align="center"> 
      <a href="https://www.linkedin.com/in/hovhannes-kolian-25641522a/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
@@ -14,13 +20,6 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>    
 </div>
-<br/>
-
-
-<div align="left">
- 💡 Courses I mastered: Object Oriented Programming I & II, System Hardware, Web Programming, Mathematics for Computer Science, Probability & Statistics for Computer Science, Technical Writing and Communication, Data Structures & Algorithms, Principles of Programming Languages, Operating Systems, Introduction to Formal Methods for Software Engineering, Databases, Social and Ethical Dimensions of Information and Communication Technologies, Databases, Introduction to Software Engineering, Introduction to Theoretical Computer Science
- </div>
- 
  <hr/>
  
 <h2 align="center">⚒️ Languages/Frameworks/Tools ⚒️</h2>
